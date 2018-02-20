@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2808121-2282-452c-9430-d8006cc641c7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Zephyr/404.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/archive.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/author.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/comments.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/addons.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/assets.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/cform.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/demo-import.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/envato.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/header-settings.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/header.css.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/meta-boxes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/migrations.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/shortcodes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/style-schemes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/theme-js.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/theme-options.css.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/theme-options.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/config/widgets.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/css/plugins/woocommerce.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/css/plugins/woocommerce.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/css/responsive.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/css/responsive.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/css/rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/css/rtl.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/css/style.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/footer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/css/editor-style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/css/theme-admin.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/functions/about.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/functions/addons.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/functions/demo-import.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/functions/functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/functions/theme-updater.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/functions/updater.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/Ultimate_VC_Addons.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/js_composer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/revslider.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/us-header-builder.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/us-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/backups-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/backups.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/blogs-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/blogs.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/buttons-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/buttons.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/canvas-boxed-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/canvas-boxed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/canvas-wide-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/canvas-wide.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/cart-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/cart.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/cog-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/cog.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/colors-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/colors.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/footer-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/footer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/header-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/header.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/ht-advanced-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/ht-advanced.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/ht-centered-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/ht-centered.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/ht-extended-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/ht-extended.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/ht-sided-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/ht-sided.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/ht-standard-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/ht-standard.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/images-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/images.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/layout-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/layout.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/mixer-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/mixer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/sidebar-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/sidebar.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/style-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/style.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/tag-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/tag.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/titlebar-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/usof/titlebar.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/img/vc_elements.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/admin/js/widget_areas.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/addons.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/assets.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/cform.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/embeds.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/envato.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/google-fonts.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/header-settings.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/header-templates.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/mega-menu.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/meta-boxes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/migrations.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/shortcodes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/sidebars.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/social_links.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/theme-options.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/config/widgets.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/css/material-icons.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/framework.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/ajax/blog.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/ajax/cart.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/ajax/cform.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/ajax/portfolio.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/ajax/portfolio_item.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/ajax/user_info.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/breadcrumbs.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/comments.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/debug.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/enqueue.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/helpers.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/layout.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/menu.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/meta-tags.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/migration.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/pagination.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/post-types.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/post.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/shortcodes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/theme-options.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/widget_areas.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/functions/widgets.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/img/phone-6-black-flat.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/img/phone-6-black-real.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/img/phone-6-white-flat.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/img/phone-6-white-real.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/img/us-logo-white.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/img/us-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/img/us-placeholder-square.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/js/gmaps.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/js/jquery.isotope.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/js/jquery.magnific-popup.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/js/jquery.royalslider.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/js/owl.carousel.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/js/us.core.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/js/us.core.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/languages/de_DE.mo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/languages/default.mo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/languages/default.po" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/languages/es_ES.mo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/languages/fr_FR.mo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/languages/it_IT.mo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/languages/nl_NL.mo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/languages/pt_BR.mo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/languages/ru_RU.mo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/languages/tr_TR.mo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/Ultimate_VC_Addons.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/bbpress.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/codelights.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/gravityforms.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/js_composer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_blog.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_btn.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_cform.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_contacts.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_counter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_cta.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_gallery.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_gmaps.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_iconbox.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_image_slider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_logos.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_message.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_person.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_portfolio.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_pricing.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_progbar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_scroller.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_separator.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_sharing.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_single_image.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_social_links.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_testimonial.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/us_testimonials.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/vc_column.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/vc_column_inner.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/vc_column_text.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/vc_custom_heading.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/vc_row.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/vc_row_inner.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/vc_tta_accordion.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/vc_tta_section.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/vc_tta_tabs.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/vc_tta_tour.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/vc_video.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/map/vc_wp_custommenu.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/js_composer/templates.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/revslider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/tablepress.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/the_events_calendar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/us_header_builder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/woocommerce/header-shop.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/woocommerce/woocommerce.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/plugins-support/wpml.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_blog.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_btn.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_cform.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_contacts.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_counter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_cta.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_gallery.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_gmaps.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_iconbox.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_image_slider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_logos.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_message.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_person.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_portfolio.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_pricing.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_progbar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_scroller.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_separator.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_sharing.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_single_image.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_social_links.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_testimonial.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/us_testimonials.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/vc_column.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/vc_column_text.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/vc_row.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/vc_row_inner.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/vc_tta_section.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/vc_tta_tabs.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/vc_video.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/shortcodes/vc_wp_custommenu.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/404.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/archive.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/author.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/blog/listing-post.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/blog/listing.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/blog/single-post-author.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/blog/single-post-related.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/blog/single-post.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/elements/additional_menu.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/elements/btn.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/elements/cart.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/elements/dropdown.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/elements/html.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/elements/image.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/elements/menu.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/elements/search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/elements/socials.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/elements/text.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/footer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/form/captcha.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/form/email.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/form/form.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/form/hidden.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/form/info.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/form/password.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/form/submit.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/form/textarea.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/form/textfield.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/forum.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/l-header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/portfolio/listing-post.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/portfolio/listing.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/single-us_portfolio.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/single.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/titlebar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/widgets/comments.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/templates/widgets/search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/css/usof.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/functions/ajax-mega-menu.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/functions/ajax.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/functions/interface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/functions/mega-menu.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/functions/meta-box.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/js/ace/ace.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/js/ace/ext-searchbox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/js/ace/mode-css.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/js/ace/mode-html.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/js/ace/theme-usof.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/js/ace/worker-css.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/js/ace/worker-html.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/js/colpick.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/js/select2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/js/usof.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/field.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/backup.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/button_preview.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/check_table.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/checkboxes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/color.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/css.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/font.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/heading.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/html.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/imgradio.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/link.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/message.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/radio.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/reset.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/select.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/slider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/style_scheme.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/switch.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/text.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/textarea.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/transfer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/templates/fields/upload.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/usof/usof.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/widget-importer-exporter/import.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/wordpress-importer/parsers.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/vendor/wordpress-importer/wordpress-importer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/widgets/us_blog.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/widgets/us_contacts.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/widgets/us_gallery.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/widgets/us_login.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/widgets/us_portfolio.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/framework/widgets/us_socials.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_2_0.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_2_1.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_2_2.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_2_4.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_2_7.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_2_8.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_3_0.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_3_1.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_3_2.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_3_3.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_3_4.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_3_6.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_3_7.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_3_8.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_3_8_1.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_3_9.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_4_0.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_4_0_2.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_4_10.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_4_2.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_4_3.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_4_4.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_4_5.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_4_6.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_4_7.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_4_8.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_4_9.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/header-shop.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/plugins-support/js_composer/map/us_blog.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/plugins-support/js_composer/map/us_btn.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/plugins-support/js_composer/map/us_cform.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/plugins-support/js_composer/map/us_cta.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/plugins-support/js_composer/map/us_iconbox.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/plugins-support/js_composer/map/us_logos.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/plugins-support/js_composer/map/us_person.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/plugins-support/js_composer/map/us_portfolio.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/plugins-support/js_composer/map/us_pricing.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/plugins-support/js_composer/map/us_social_links.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/plugins-support/js_composer/map/us_testimonials.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/plugins-support/js_composer/map/vc_tta_tabs.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/readme.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/screenshot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/searchform.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/single-us_portfolio.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/single.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Zephyr/wpml-config.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/templates/header.php" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RemesasChildTheme" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemesasChildTheme" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2808121-2282-452c-9430-d8006cc641c7" name="Default" comment="" />
+      <created>1519157432978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519157432978</updated>
+      <workItem from="1519157435975" duration="2000" />
+      <workItem from="1519157448047" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zephyr/header-shop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zephyr/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zephyr/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zephyr/author.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zephyr/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_2_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zephyr/functions/migrations/us_migration_2_0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
